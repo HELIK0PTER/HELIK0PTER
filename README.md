@@ -1,12 +1,17 @@
 ## Matheus KOPS GUEDES
 
-### <u>Formation :</u> 
-Lycée Camille Claudel à Vauréal / Université CY TECH \
-Bac S option ISN / Licence Info (2 permières années)
+### ✅ Mes compétences
+* Niveau débutant en Python Java et C
+* Langages WEB/Server en cours d'apprentissage: HTML/CSS, JavaScript, PhP, SQL  
 
-### <u>Pourquoi avoir choisi l'ESIEE IT?</u>
-Depuis le lycée, j'ai découvert ma passion pour l'informatique et le développement.
+### 📚 Mes Études
+* 2019: Bac S option ISN (Informatique et Sciences du Numérique) au Lycée polyvalent Camille Claudel à Vauréal
+* 2020-2022: Licence Info (seulement les 2 premières années) à l'Université CY Tech
+* 2022-now: BTS SIO option SLAM
 
-### <u>Informatique:</u>
-Je connais quelques langages: le Python, le C, le Java, le HTML/CSS. \
-En terme d'hardware j'ai déja monté un ordinateur moi même.
+### ❤ Mes Passions
+💻 Je suis passionné d'**informatique** depuis plusieurs années  
+🎹 J'aime faire **du piano**,  
+🎵 écouter de la **musique**,  
+🏋️‍♀️ faire du sport,  
+👹 J'aime aussi la culture japonaise.  
