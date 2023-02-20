@@ -10,9 +10,9 @@
 * 2022-now: BTS SIO option SLAM
 
 ### ❤ Mes Passions
-💻 Je suis passionné d'**informatique** depuis plusieurs années  
-🎹 J'aime faire **du piano**,  
+💻 Je suis passionné d'**informatique** depuis plusieurs années,  
+🎹 J'aime faire du **piano**,  
 🎵 écouter de la **musique**,  
-🏋️‍♀️ faire du sport,  
-👹 J'aime aussi la culture japonaise.  
+🏋️‍♀️ faire du **sport**,  
+👹 J'aime aussi la **culture japonaise**.  
 
