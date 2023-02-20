@@ -16,5 +16,3 @@
 🏋️‍♀️ faire du sport,  
 👹 J'aime aussi la culture japonaise.  
 
-### 🍗 Le tacos: ma raison de vivre
-![](tacos-lyonnais.jpg)
