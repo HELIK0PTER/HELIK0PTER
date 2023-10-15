@@ -1,8 +1,13 @@
 ## Matheus KOPS GUEDES
 
-### ✅ Mes compétences
-* Niveau débutant en Python Java et C
-* Langages WEB/Server en cours d'apprentissage: HTML/CSS, JavaScript, PhP, SQL  
+### ✅ Skills
+# Dev Full-Stack:
+💻 App: Python, Java, C  
+💾 Back: Php, SQL  
+👾 Web: HTML, CSS, JavaScript, React, Vue.js  
+Framework Python: DJANGO  
+Framework React: Next.js  
+Frameworks JavaScript: JQuery, Vue.js, Ajax  
 
 ### 📚 Mes Études
 * 2019: Bac S option ISN (Informatique et Sciences du Numérique) au Lycée polyvalent Camille Claudel à Vauréal
