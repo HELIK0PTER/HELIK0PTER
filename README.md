@@ -11,8 +11,8 @@
 
 ### ❤ Mes Passions
 💻 Je suis passionné d'**informatique** depuis plusieurs années,  
-🎵 J'aime faire du **piano** et écouter de la **musique**,
-🏎️ Je suis un grand fan de **voitures**,
+🎵 J'aime faire du **piano** et écouter de la **musique**,  
+🏎️ Je suis un grand fan de **voitures**,  
 🏋️‍♀️ faire du **sport**,  
-👹 J'aime aussi la **culture japonaise**.
+👹 J'aime aussi la **culture japonaise**.  
 
