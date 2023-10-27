@@ -1,4 +1,4 @@
-## Bienvenue sur ma page d'accueil Git ! 👋
+# Bienvenue sur ma page d'accueil Git ! 👋
 
 ### À propos de moi 🚀
 
