@@ -1,45 +1,43 @@
-# Bienvenue sur ma page d'accueil Git ! 👋
+# Bienvenue sur mon profil GitHub ! 👋
 
-### À propos de moi 🚀
+## À propos de moi ℹ️
 
-Je m'appelle **Matheus** et je suis un passionné de l'informatique. Mon parcours académique a débuté avec 
-un bac S, puis j'ai poursuivi mes études en obtenant une licence en informatique et je suis actuellement en 2ème année 
-de BTS SIO (Services Informatiques aux Organisations). Depuis la terminale j'avais déjà commencé à m'intéresser au 
-développement et j'ai déjà acquis une solide expérience dans le domaine du développement logiciel et web.
+Je suis un développeur Full Stack passionné par la création de logiciels innovants et performants. Avec une expérience significative dans le développement web et une expertise dans diverses technologies, je suis toujours à la recherche de nouveaux défis stimulants pour mettre mes compétences à contribution.
 
-### 🔧 Mes compétences techniques
+## Compétences techniques 💻
 
-Je suis un développeur full-stack avec une variété de compétences en programmation, notamment :
+- **Langages de programmation :** Python, HTML, CSS, JavaScript, Typescript, SQL
+- **Frameworks et bibliothèques :** Next.js, React.js, Node.js, Django
+- **Bases de données :** PostgreSQL, MySQL, Firebase, Supabase
+- **Outils de développement :** Git, Docker, Webpack
+- **Autres :** RESTful APIs
 
-- 💻 Langages : C, Java, Python
-- 💾 Backend : Php, SQL
-- 👾 Web : HTML, CSS, JavaScript
-- 🌐 Framework Python : Django
-- 🚀 Framework React : Next.js
-- 📦 Frameworks JavaScript : jQuery, Vue.js, Ajax
+## Projets récents 🚀
 
-### 📚 Mon parcours académique
+Voici quelques-uns des projets sur lesquels j'ai récemment travaillé :
 
-- 2019 : Obtention du Bac S avec option ISN (Informatique et Sciences du Numérique) au Lycée polyvalent Camille 
-Claudel à Vauréal
-- 2020-2022 : Deux premières années de Licence en Informatique à l'Université CY Tech
-- 2022-aujourd'hui : BTS SIO (Services Informatiques aux Organisations) avec option SLAM (développement) à l'école ESIEE-IT
+1. **Gaming Explorer**
+   - Une plateforme de recherche je jeux vidéos via l'api RAWG.
+   - Technologies utilisées : Next.js, Node.js, Firebase
+   - Lien : [gaming explorer](https://www.gamingexplorer.fr/)
+  
+2. **Mon Portfolio**
+   - Dans le cadre de ma formation (BTS SIO SLAM) j'ai du réaliser moi même mon portefeuille de compétences.
+   - Technologies utilisées : Next.js, Tailwind.css, autres frameworks..
 
-### ❤ Mes passions
+Pour plus de détails sur ces projets et d'autres, consultez mon [portefeuille](matheuskopsguedes.com) complet.
 
-- 💻 Programmation : Je suis passionné d'informatique depuis à peu près toujours.
-- 🎵 Musique : J'aime faire du piano, de la guitare et de la basse, et j'aime écouter de la musique.
-- 🏎️ Voitures : Je suis un grand fan de voitures sportives.
-- 🏋️‍♀️ Sport : Faire du sport est pour moi essentiel.
-- 👹 Culture japonaise : J'aime la culture japonaise, notamment les mangas et la cuisine.
+## Projets en cours et futurs
 
-### Explorez mon Git 🌐
+_ajouter les projets_
 
-N'hésitez pas à explorer mes dépôts disponibles, à contribuer, à me contacter pour des projets ou des collaborations, ou simplement 
-à discuter de nos passions communes. Je suis ravi de vous accueillir sur ma page d'accueil Git, où la technologie, la 
-créativité et la passion se rencontrent. 🚀🌟
+## Contact 📬
 
-### Liens
+Si vous souhaitez discuter de collaborations potentielles, de projets ou simplement échanger des idées, n'hésitez pas à me contacter :
 
-- 📄 Mon Portfolio : Lien pas encore disponible (site en cours de construction)
-- Projet de BTS : [Liens vers le site](https://gamingexplorer.fr)
+- Adresse e-mail : [matheuskg.pro@gmail.com](mailto:matheuskg.pro@gmail.com)
+- Profil LinkedIn : [matheus-kops-guedes](https://www.linkedin.com/in/matheus-kops-guedes-4293b7213/)
+
+Je suis ouvert aux opportunités intéressantes et toujours ravi de rencontrer de nouveaux collègues et collaborateurs.
+
+Merci d'avoir visité mon profil GitHub ! 🙏
