@@ -9,7 +9,7 @@ Je suis un développeur Full Stack passionné par la création de logiciels inno
 - **Langages de programmation :** Python, HTML, CSS, JavaScript, Typescript, SQL
 - **Frameworks et bibliothèques :** Next.js, React.js, Node.js, Django
 - **Bases de données :** PostgreSQL, MySQL, Firebase, Supabase
-- **Outils de développement :** Git, Docker, Webpack
+- **Outils de développement :** Git, Docker, Stripe
 - **Autres :** RESTful APIs
 
 ## Projets récents 🚀
@@ -18,18 +18,19 @@ Voici quelques-uns des projets sur lesquels j'ai récemment travaillé :
 
 1. **Gaming Explorer**
    - Une plateforme de recherche je jeux vidéos via l'api RAWG.
-   - Technologies utilisées : Next.js, Node.js, Firebase
-   - Lien : [gaming explorer](https://www.gamingexplorer.fr/)
+   - Technologies utilisées : Next.js (frontend), Firebase (backend + auth), API RAWG
   
 2. **Mon Portfolio**
    - Dans le cadre de ma formation (BTS SIO SLAM) j'ai du réaliser moi même mon portefeuille de compétences.
-   - Technologies utilisées : Next.js, Tailwind.css, autres frameworks..
+   - Technologies utilisées : Next.js , Tailwind.css, autres frameworks..
 
 Pour plus de détails sur ces projets et d'autres, consultez mon [portefeuille](matheuskopsguedes.com) complet.
 
 ## Projets en cours et futurs
 
-_ajouter les projets_
+1. **Minca**
+   - Site E-Commerce pour ma famille qui produit de vin au sud du Brésil
+   - Technologies utilisées : Next.js (frontend), Supabase (backend + auth), Stripe (gestion de payements), Tiny (gestion des factures)
 
 ## Contact 📬
 
