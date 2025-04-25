@@ -24,7 +24,7 @@ Voici quelques-uns des projets sur lesquels j'ai récemment travaillé :
    - Dans le cadre de ma formation (BTS SIO SLAM) j'ai du réaliser moi même mon portefeuille de compétences.
    - Technologies utilisées : Next.js , Tailwind.css, autres frameworks..
 
-Pour plus de détails sur ces projets et d'autres, consultez mon [portefeuille](matheuskopsguedes.com) complet.
+Pour plus de détails sur ces projets et d'autres, consultez mon [portfolio](matheuskopsguedes.com) complet.
 
 ## Projets en cours et futurs
 
