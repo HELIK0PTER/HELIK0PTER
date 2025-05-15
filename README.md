@@ -24,13 +24,18 @@ Voici quelques-uns des projets sur lesquels j'ai récemment travaillé :
    - Dans le cadre de ma formation (BTS SIO SLAM) j'ai du réaliser moi même mon portefeuille de compétences.
    - Technologies utilisées : Next.js , Tailwind.css, autres frameworks..
 
-Pour plus de détails sur ces projets et d'autres, consultez mon [portfolio](matheuskopsguedes.com) complet.
+Pour plus de détails sur ces projets et d'autres, consultez mon [portfolio](portfolio.matheuskopsguedes.com) complet.
 
 ## Projets en cours et futurs
 
 1. **Minca**
-   - Site E-Commerce pour ma famille qui produit de vin au sud du Brésil
+   - Site E-Commerce pour mon entreprise familiale qui produit de vin dans le sud du Brésil
    - Technologies utilisées : Next.js (frontend), Supabase (backend + auth), Stripe (gestion de payements), Tiny (gestion des factures)
+   - Profil instagram de l'entreprise : [cantina_mincarone](https://www.instagram.com/cantina_mincarone)
+  
+2. **MeetSync**
+   - SaaS de créations d'évènements en modèle freemium avec envoi de mails d'invitation, gestion des suggestions, alertes lorsque l'évèynement approche...
+   - Technologies utilisées : Next.js (frontend), Supabase (backend + auth), Stripe (gestion des abonnements), Nodemailer (Envoi des mails via le SMTP de gmail)
 
 ## Contact 📬
 
@@ -39,6 +44,6 @@ Si vous souhaitez discuter de collaborations potentielles, de projets ou simplem
 - Adresse e-mail : [matheuskg.pro@gmail.com](mailto:matheuskg.pro@gmail.com)
 - Profil LinkedIn : [matheus-kops-guedes](https://www.linkedin.com/in/matheus-kops-guedes-4293b7213/)
 
-Je suis ouvert aux opportunités intéressantes et toujours ravi de rencontrer de nouveaux collègues et collaborateurs.
+Je reste toujours ouvert aux opportunités et serai ravi de relever de nouveaux défis.
 
 Merci d'avoir visité mon profil GitHub ! 🙏
